@@ -1,7 +1,7 @@
 {
   "name": "boiler-replate",
   "author": "alexgriss",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A base boilerplate to start your application with the latest React based on webpack",
   "main": "index.js",
   "license": "MIT",
