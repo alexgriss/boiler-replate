@@ -28,12 +28,6 @@
 
 ## File structure
 
-* `src/atoms` contains small solid components that will be used in many modules
+This boilerplate is based on [Feature-Sliced Design](https://feature-sliced.design/)
 
-* `src/modules` contains logically separate components that will be built in screens
-
-* `src/screens` contains separate routes (pages) of an application
-
-* `src/layout` contains components for building a layout (like containers, sidebars, wrappers, grids etc.)
-
-> You can use `@` sign for es6 imports as an alias of  `src` folder, e.g.: `@/atoms`
+> You can use `@` sign for es6 imports as an alias of  `src` folder, e.g.: `@/widgets`
