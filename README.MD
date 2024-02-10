@@ -1,5 +1,7 @@
 # Boiler-replate
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 > **A base boilerplate to start develop your application with the latest React based on webpack**
 
 ## Quick start
